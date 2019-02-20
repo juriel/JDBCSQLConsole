@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author juriel
+ * @author juandiego@comtor.net
  */
 public class JDBCSqlConsole {
 
