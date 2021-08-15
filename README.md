@@ -46,3 +46,5 @@ java -jar JDBCSqlConsole.jar -mysql -generate-create-table -host 127.0.0.1 -data
 
 CREATE TABLE users ( login VARCHAR(50), password VARCHAR(255), name VARCHAR(150), email VARCHAR(100), login_mobile VARCHAR(50), password_mobile VARCHAR(255), phone VARCHAR(50), identification VARCHAR(50), mobile_phone VARCHAR(50) )
 
+
+
